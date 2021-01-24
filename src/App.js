@@ -6,7 +6,7 @@ export default () => {
     const [rooms, setRooms] = useState([])
 
     const time = [
-        ["8:30 10:05"],
+        ["8:30 10:051"],
         ["10:25 12:00"],
         ["12:20 14:10"],
         ["14:15 15:50"],
